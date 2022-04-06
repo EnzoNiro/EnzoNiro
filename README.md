@@ -1,5 +1,5 @@
 
-## Olá sou o Enzo instusiata em Data Science e Data Engineer 🖐️
+## Olá sou o Enzo enstusiata de Data Science e Data Engineer 🖐️
 
 ### Bem vindos ao meu perfil!
 
@@ -7,22 +7,21 @@
 
 ![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoNiro&show_icons=true&theme=dark)
 
-## 🚀 Ferramentas e  Liguagens que utilizo no meu dia a dia:
+### 🚀 Ferramentas e  Liguagens que utilizo no meu dia a dia:
 _______________________________________
 
-
 <div style="display: inline_block"><br/>
-    <img align="center" alt= "python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt= "SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt= "ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img align="center" alt= "guit" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img align="center" alt= "GuitHub" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img align="center" alt= "VsCode" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img align="center" alt= "Databrincks" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt= "Pyspark" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt= "Aws" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img align="center" alt= "Docker" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img align="center" alt= "hadoop" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img align="center" alt= "python" src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e"/>
+        <img align="center" alt= "jupyter" src="https://camo.githubusercontent.com/813b81ce8f5e635abd2e613a4db4b28244b0142e93b0a1a448b01915b203a022/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4a757079746572"/>
+        <img align="center" alt= "Linux" src="https://camo.githubusercontent.com/98cab04b1fbe9d67fc8a05c663eea1c032c955cdf883e8e5e613372a239b658e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4c696e7578"/>
+    <img align="center" alt= "guit" src="https://camo.githubusercontent.com/d0cb40f5f51c0a0e69d8ddae48e4426cbc2f193d1f11c59fc632859fd238b065/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d476974"/>
+      <img align="center" alt= "VsCode" src="https://camo.githubusercontent.com/99fe9f924df31a3722f821e3220fe3a7db01fd4ce09c3f01fd922661540a98c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465"/>
+    <img align="center" alt= "Databrincks" src="https://camo.githubusercontent.com/212bcd668b49b336324c82d2851c19240e2bbbb02b3df8d44b773015b6aa3a30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44617461627269636b732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d44617461627269636b73"/>
+    <img align="center" alt= "Pyspark" src="https://camo.githubusercontent.com/411593c27bbc28156518b07a6ae7df4f26237857703820ecaf5688f22ec48def/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079737061726b2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4170616368652d537061726b"/>
+    <img align="center" alt= "Aws" src="https://camo.githubusercontent.com/8a813ef7211204b49b02487ea801df67edfe81ce91e4e011630acd0857af5080/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4157532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d416d617a6f6e2d415753"/>
+    <img align="center" alt= "Docker" src="https://camo.githubusercontent.com/c69b79e7dc42bf01b913713f008cf1ff2c5d852b9d07a7510517a13fe7aa136b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d446f636b6572"/>
+    <img align="center" alt= "hadoop" src="https://camo.githubusercontent.com/c6afec153b34916f9fb8bde7cd70e9bec4452b11f63853f2f57987a67bc7033e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861646f6f702d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4170616368652d4861646f6f70"/>
+     <img align="center" alt= "pbi" src="https://camo.githubusercontent.com/8c911145636fa1df3281a681c1a8647f52e407fdada7e8e1c4895b4c5ce1e48c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d626c61636b3f7374796c653d706c6173746963266c6f676f3d506f7765722d4249"/>
 </div><br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
