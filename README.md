@@ -1,22 +1,28 @@
-## Olá sou o Enzo intusiasta em Data Science!
-<div align="center">
-  <a href="https://github.com/EnzoNiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoNiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNiro&layout=compact&langs_count=7&theme=dark"/>
+
+## Olá sou o Enzo instusiata em Data Science e Data Engineer 🖐️
+
+### Bem vindos ao meu perfil!
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-niro-59a11537/)
+
+![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoNiro&show_icons=true&theme=dark)
+
+## 🚀 Ferramentas e  Liguagens que utilizo no meu dia a dia:
+_______________________________________
+
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt= "python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt= "SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center" alt= "ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img align="center" alt= "guit" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img align="center" alt= "GuitHub" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img align="center" alt= "VsCode" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img align="center" alt= "Databrincks" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt= "Pyspark" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center" alt= "Aws" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img align="center" alt= "Docker" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img align="center" alt= "hadoop" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</div><br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="EnzoNiro-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="EnzoNiro-Js" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="EnzoNiro-Js" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="EnzoNiro-Js" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="EnzoNiro-Js" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-    
-</div>
-  
-  ##
- 
-<div> 
-  
-  <a href = "mailto:enzo.nniro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enzo-niro-59a11537/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
